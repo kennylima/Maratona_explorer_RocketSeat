@@ -4,7 +4,7 @@
 
 Projeto construído no evento Maratona Explorer 3.0 da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://kennylima.github.io/Maratona-Explorer-3.0-RocketSeat/)
+[🔗 Clique aqui para acessar](https://kennylima.github.io/Maratona_explorer_RocketSeat/)
 
 ## 🛠 Tecnologias 
 - HTML
