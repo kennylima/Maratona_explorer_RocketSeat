@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    background-color: #FFEDD5;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(./assets/coffee_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+    padding: 15px;
+  }
+  
+  ul{
+    list-style: none;
+  }
+  
+  /*Fontes*/
+  h1, h2, h3, .price{
+    font-family: 'Roboto Serif', serif;
+    text-transform: uppercase;
+    color: #161615;
+    
+  }
+  
+  header{
+    padding:32px 0;
+    text-align: center;
+  }
+  
+  header h1{
+    margin-bottom: 4px;
+    font-size: 28px;
+    line-height: 33px;
+  }
+  
+  header h1 span{
+    color:#753f05;
+  }
+
+  header h1 .name{
+    color:rgb(7, 116, 7);
+  }
+  
+  header p{
+    color: rgba(0,0,0,0.8);
+  }
+  
+  header, section{
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  section{
+    margin-bottom: 24px;
+  }
+  
+  section h2{
+    background-color: #7ccc71;
+    padding: 8px 16px;
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 18px;
+    border-radius: 10px;
+  }
+  
+  ul li{
+    margin-bottom: 16px;
+    display: flex;
+  }
+  
+  li .details{
+    max-width: 240px;
+  }
+  
+  .details h3{
+    margin-bottom: 8px;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  
+  .details p{
+    color: rgba(0,0,0,0.9);
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  .glass{
+    max-width: 380px;
+    margin: 0 auto;
+    padding: 8px;
+
+    /*Utilizando css.glass */
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 16px;
+    backdrop-filter: blur(7.6px);
+    -webkit-backdrop-filter: blur(5.6px);
+    border: 1px solid rgba(170, 170, 170, 0.33)
+  }
+ 
+  
